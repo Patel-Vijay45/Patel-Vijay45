@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 👋 Hi, I’m @kalpeshkatariya<br>- 👀 I’m interested in ...Frontend Developer<br>- 🌱 I’m currently learning ...HTML,CSS,Javascript<br>- 📫 How to reach me ...kkatariya05@gmail.com
+- 👋 Hi, I’m @vijaypatel<br>- 👀 I’m interested in ...Web Developement<br>- 🌱 I’m currently an Expert ...LARAVE,YII,CII,PHP,SQL,Jquery,HTML,CSS,Javascript<br>- 📫 How to reach me ...vijaypatel8160@gmail.com
 
 
 ## 🌐 Socials:
